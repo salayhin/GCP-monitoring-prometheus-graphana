@@ -1,1 +1,1 @@
-# GCP-monitoring-promethius-graphana
+# GCP-monitoring-prometheus-graphana
